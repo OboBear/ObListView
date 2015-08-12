@@ -1,0 +1,2 @@
+set solib-search-path /Users/apple/Desktop/Workspace/android/demos/ndktest/hello-jni/app/src/main/obj/local/armeabi
+directory /Users/apple/Desktop/Workspace/android/NDK/android-ndk-r9c/platforms/android-3/arch-arm/usr/include /Users/apple/Desktop/Workspace/android/demos/ndktest/hello-jni/app/src/main/jni /Users/apple/Desktop/Workspace/android/NDK/android-ndk-r9c/sources/cxx-stl/system
